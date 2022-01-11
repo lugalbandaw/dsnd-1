@@ -8,7 +8,7 @@ Nothing to install, just run the Jupyter Notebook **dsnd-1**.
 The Notebook uses data from https://insights.stackoverflow.com/survey (years 2018, 2019, 2021, 2021), that is expected in the folder **../Data**.
 
 ## Project Motivation
-Considering the stack overflow surveys of the years 2018-2021, the Notebook deals with these questions:
+Considering the stack overflow surveys of the years 2018-2021, this Notebook deals with these questions:
 1. What columns (i.e. questions) are contained in each of the four datasets and, hence, ca be analysed over time?
 2. What is the distribution of the participants' age 2018 and 2021?
 3. How does the usage of the different programming languags develop from 2018 to 2021?
