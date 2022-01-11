@@ -2,7 +2,7 @@
 This project covers **Project 1** of the Udacity Nanodegree Course _Data Science_.
 
 ## Installation
-Nothing to install, just run the Jupyter Notebook **dsnd-1**.
+Nothing to install, just run the Jupyter Notebook **DS Project 1**.
 
 ## Data
 The Notebook uses data from https://insights.stackoverflow.com/survey (years 2018, 2019, 2021, 2021), that is expected in a folder **../Data**.
@@ -20,7 +20,7 @@ Considering the stack overflow surveys of the years 2018-2021, this Notebook dea
 2. Folder **Data** with subfolder for each year, named _stack-overflow-developer-survey-20xx_
 
 ## How to use
-1. Download and extract data into subfolders with correct naming.
+1. Download extract data into subfolders with correct naming.
 2. Run the Notebook and click through.
 
 ## Licensing
