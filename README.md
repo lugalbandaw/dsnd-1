@@ -1,11 +1,11 @@
 # Description
-This Notebook covers Project 1 of the Udacity Nanodegree Course "Data Science".
+This project covers **Project 1** of the Udacity Nanodegree Course _Data Science_.
 
 ## Installation
-Nothing to install, just run the Notebook.
+Nothing to install, just run the Jupyter Notebook **dsnd-1**.
 
 ## Data
-The Notebook uses data from https://insights.stackoverflow.com/survey (years 2018, 2019, 2021, 2021).
+The Notebook uses data from https://insights.stackoverflow.com/survey (years 2018, 2019, 2021, 2021), already downloaded in the folder **Data**.
 
 ## Project Motivation
 Considering the stack overflow surveys of the years 2018-2021, the Notebook deals with these questions:
